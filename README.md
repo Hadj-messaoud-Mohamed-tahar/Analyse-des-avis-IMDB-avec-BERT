@@ -12,6 +12,7 @@ Ce projet utilise le fine-tuning du modèle BERT pré-entraîné pour classifier
 ## **Technologies utilisées**
 - **Python** : Langage principal.
 - **NLTK** : Prétraitement des textes.
+- **PyTorch**: Framework principal pour l'entraînement et l'utilisation des modèles de deep learning, comme BERT
 - **HuggingFace Transformers** : Tokenisation et fine-tuning du modèle BERT.
 - **Scikit-learn** : Calcul des métriques et matrice de confusion.
 - **Seaborn et Matplotlib** : Visualisation des résultats.
